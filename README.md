@@ -4,7 +4,7 @@
 ## Libraries, Frameworks and Technologies:
 1. MongoDB
 2. NodeJS
-  1. a
+  1.
 4. ExpressJS
 5. ReactJS
 6. HTML/CSS
