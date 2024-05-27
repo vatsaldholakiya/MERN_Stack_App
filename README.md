@@ -1,5 +1,7 @@
 # MERN Stack Application
 
+This is a project for my learning and experimentation purposes. 
+
 ## Libraries, Frameworks and Technologies:
 1. MongoDB
 2. NodeJS
